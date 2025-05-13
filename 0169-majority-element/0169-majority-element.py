@@ -7,9 +7,7 @@ class Solution:
                 d[num] += 1
             else:
                 d[num] = 1
-        
-        majorElem = None
-        majorVal = 0
+
         for key, val in d.items():
             if val > len(nums) // 2:
                 return key
