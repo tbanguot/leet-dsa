@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/tbanguot/leet-dsa/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/tbanguot/leet-dsa/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/tbanguot/leet-dsa/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/tbanguot/leet-dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tbanguot/leet-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/tbanguot/leet-dsa/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -32,4 +34,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tbanguot/leet-dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tbanguot/leet-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tbanguot/leet-dsa/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tbanguot/leet-dsa/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tbanguot/leet-dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
